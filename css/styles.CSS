@@ -1,0 +1,70 @@
+
+
+body {
+overflow-x: hidden;
+margin: 0;
+padding:1%;
+}
+
+							/*navegador estático*/
+
+/*imagen*/
+.imgprincipal
+{
+position: static;
+width: 100%;
+} 
+
+ul.lista
+{
+position:relative;
+padding:5%;
+list-style: none;
+width: 1000px;
+}
+
+img.comidas
+{
+width: 185px;
+height: 15%;
+margin:3.3%; 
+border-style: ridge;
+border-color: black;     
+border-radius:5%;
+margin-right: 10%;
+} 
+
+
+img.comidas:hover
+{
+border-style: ridge;
+border-color: red;     
+border-radius:5%;
+}
+
+img.imagenasistencia{
+height: 12px;	
+width: 12px;
+margin: 1px;
+}
+
+.bot
+{
+float: left;
+border-style: ridge;
+border-color: orange;     
+border-radius:5%;
+width: 400px;
+margin-left: 8%;
+font-style: italic;
+font-weight: bold;
+color: orange;
+}
+
+.bot2
+{	
+float: left;
+margin-left: 15%;
+}
+
+
